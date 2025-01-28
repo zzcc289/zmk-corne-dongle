@@ -7,8 +7,7 @@ manifest:
     - name: tokyo2006
       url-base: https://github.com/tokyo2006
   projects:
-      revision: refactor
-    - name: mario-peripheral-animation
+    - name: hammerbeam-slideshow
       remote: gpeye
       revision: main 
     - name: zmk
