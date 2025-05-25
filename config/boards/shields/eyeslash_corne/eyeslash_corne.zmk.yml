@@ -1,6 +1,6 @@
 file_format: "1"
-id: corne
-name: Corne
+id: eyeslash_corne
+name: Eyeslash Sofle
 url: https://github.com/a741725193/zmk-corne-dongle
 type: shield
 requires: [pro_micro]
@@ -11,6 +11,6 @@ outputs:
   - usb
   - ble
 siblings:
-  - corne_peripheral_left
-  - corne_peripheral_right
-  - corne_central_dongle
+  - eyeslash_corne_peripheral_left
+  - eyeslash_corne_peripheral_right
+  - eyeslash_corne_central_dongle

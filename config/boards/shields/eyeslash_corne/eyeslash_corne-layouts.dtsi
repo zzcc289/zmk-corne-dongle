@@ -1,7 +1,7 @@
 #include <physical_layouts.dtsi>
 
 / {
-    corne_layout: corne_layout {
+    eyeslash_corne_layout: eyeslash_corne_layout {
         compatible = "zmk,physical-layout";
         display-name = "default_layout";
         transform = <&default_transform>;
